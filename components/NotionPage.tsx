@@ -261,7 +261,7 @@ export const NotionPage: React.FC<types.PageProps> = ({
         fullPage={!isLiteMode}
         darkMode={darkMode.value}
         previewImages={site.previewImages !== false}
-        showCollectionViewDropdown={true}
+        showCollectionViewDropdown={false}
         showTableOfContents={showTableOfContents}
         minTableOfContentsItems={minTableOfContentsItems}
         defaultPageIcon={config.defaultPageIcon}

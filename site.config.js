@@ -13,8 +13,8 @@ module.exports = {
 
   // open graph metadata (optional)
   description: 'Dev blog',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  socialImageTitle: 'Adib Hanna',
+  socialImageSubtitle: 'Hello World!',
 
   // social usernames (optional)
   twitter: 'Adib_Hanna',

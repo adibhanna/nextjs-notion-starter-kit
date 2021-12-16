@@ -325,7 +325,7 @@
 }
 
 .notion-header {
-  background: hsla(0, 0%, 100%, 0.8);
+  background: #2f3437;
   backdrop-filter: saturate(180%) blur(16px);
 }
 
